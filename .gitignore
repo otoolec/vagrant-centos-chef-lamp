@@ -1,0 +1,9 @@
+
+# Vagrant files
+.vagrant
+
+# Berksfile files
+Berksfile.lock
+
+# IDE files
+.idea
