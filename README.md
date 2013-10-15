@@ -22,11 +22,9 @@ Configuration
 -------------
 
 1. Add your project to a sub-directory
-Example:
+Example: `git submodule add <repository> <path>`
 
-    git submodule add <repository> <path>
-
-2. Edit the `PROJECT_NAME` in Vagrantfile to match your <path>
+2. Edit the `PROJECT_NAME` value in Vagrantfile to match your `<path>`
 
 Setup
 -----
