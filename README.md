@@ -12,17 +12,18 @@ Installation
 
 3. Install the Vagrant Berkshelf plugin
 
-    $ vagrant plugin install vagrant-berkshelf
+        $ vagrant plugin install vagrant-berkshelf
 
 4. Install the Vagrant HostManager plugin
 
-    $ vagrant plugin install vagrant-hostmanager
+        $ vagrant plugin install vagrant-hostmanager
 
 Configuration
 -------------
 
 1. Add your project to a sub-directory
-Example: `git submodule add <repository> <path>`
+
+        git submodule add <repository> <path>
 
 2. Edit the `PROJECT_NAME` value in Vagrantfile to match your `<path>`
 
