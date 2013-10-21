@@ -33,3 +33,5 @@ Setup
 1. Run `vagrant up`
 
 2. Connect your browser to (http://192.168.92.68)
+
+Note: Default passwords are set to `vagrant`
